@@ -1,9 +1,6 @@
 # Atulya Tiwari
 Hi there! My name is Atulya Tiwari and welcome to my portfolio.  I follow Sanatan Dharma and in my free time, I love to code.  While "hacker" can have a negative connotation, my true aspiration is to become a skilled programmer who can solve problems and create innovative solutions.
 
-Contact:
-
-Email: atulya@harihar.site
 Skills:
 
 Programming (In Progress)
